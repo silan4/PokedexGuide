@@ -1,3 +1,6 @@
 # PokedexGuide
 
 
+![Uploading pokedex.gif…]()
+
+
